@@ -63,3 +63,9 @@ Sector 15, Block 2 (Imaginators Signature Data)
 And wipes everything else.
 
 ----------------------------------------
+
+![00. Skylanders Hex Explained](https://raw.githubusercontent.com/t3hsuppli3r/Bulk-Skylanders-Reset/main/img/00.%20Skylanders%20Hex%20Explained.png)
+
+![01. Skylanders Resetting SSA - SSC](https://raw.githubusercontent.com/t3hsuppli3r/Bulk-Skylanders-Reset/main/img/01.%20Skylanders%20Resetting%20SSA%20-%20SSC.png)
+
+![02. Skylanders Resetting Imaginators](https://raw.githubusercontent.com/t3hsuppli3r/Bulk-Skylanders-Reset/main/img/02.%20Skylanders%20Resetting%20Imaginators.png)
